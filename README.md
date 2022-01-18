@@ -1,4 +1,6 @@
 # MMDPluginDLL
+[![Github All Releases](https://img.shields.io/github/downloads/PTOM76/MMDDiscordRPC/total.svg)]()
+
 おいがみ様の MMDPlugin で使えるMMDのプラグインです。  
 今のところDLLは1つです。  
 
