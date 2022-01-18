@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  DispPlayingFrame.cpp
+  dllmain.cpp
+     ライブラリ ..\MMDPluginDLL\qDispPlayingFrame.lib とオブジェクト ..\MMDPluginDLL\qDispPlayingFrame.exp を作成中
+  DispPlayingFrame.vcxproj -> D:\workspace\MMDDev\MMDPluginDLL-master\MMDPluginDLL-master\MMDPluginDLL\qDispPlayingFrame.dll

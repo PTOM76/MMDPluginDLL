@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  SetCameraFollowBone.cpp
+     ライブラリ ..\MMDPluginDLL\qSetCameraFollowBone.lib とオブジェクト ..\MMDPluginDLL\qSetCameraFollowBone.exp を作成中
+  SetCameraFollowBone.vcxproj -> D:\workspace\MMDDev\MMDPluginDLL-master\MMDPluginDLL-master\MMDPluginDLL\qSetCameraFollowBone.dll

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  CameraModeUndo.cpp
+  dllmain.cpp
+     ライブラリ ..\MMDPluginDLL\qCameraModeUndo.lib とオブジェクト ..\MMDPluginDLL\qCameraModeUndo.exp を作成中
+  CameraModeUndo.vcxproj -> D:\workspace\MMDDev\MMDPluginDLL-master\MMDPluginDLL-master\MMDPluginDLL\qCameraModeUndo.dll
